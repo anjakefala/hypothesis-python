@@ -1,0 +1,7 @@
+flake8
+isort
+pyformat
+restructuredtext-lint
+Sphinx
+sphinx-rtd-theme
+tox
