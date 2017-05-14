@@ -22,6 +22,7 @@ jinja2==2.9.6             # via sphinx
 markupsafe==1.0           # via jinja2
 mccabe==0.6.1             # via flake8
 packaging==16.8           # via setuptools
+pip-tools==1.9.0
 pkginfo==1.4.1            # via twine
 pluggy==0.4.0             # via tox
 py==1.4.33                # via pytest, tox
